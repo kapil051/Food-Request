@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navBar{
+    background-color: #0c0b0b;
+    color: rgb(242, 245, 247);
+    height: 48px;
+    display: flex;
+    /* justify-content: center; */
+}
+.navBar img{
+      width: 75px;
+     border-radius: 58px;
+     margin: 0px 0px 0px 10px;
+    
+}
+
+.navBar ul{
+    list-style-type: none;
+    margin: 14px 0px 0px 10px;
+       display: flex;
+}
+.navBar ul li{
+       margin: 0px 10px 0px 0px;   
+}
+.navBar ul li a{
+         background-color: rgb(14, 14, 16);
+           border-radius: 12px;
+            text-decoration: none;
+         color: rgb(236, 236, 236); 
+         padding: 2px 2px 2px 2px;
+}
+
+.navBar ul li a:hover{
+      background-color: rgb(246, 61, 123);
+   }
+
+   .sign-in{
+       width: 70px;
+        font-size: 13px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border-radius: 12px;
+    margin-top:0px ;
+    margin-left:594px ;
+    margin-bottom:10px ;
+    margin-right:-52px ;
+    background-color: #f4f0b3;
+   }
+
+   .sign-up{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 12px;
+    font-size: 13px;
+    width:70px;
+    margin-top:0px ;
+    margin-left:86px ;
+    margin-bottom:10px ;
+    margin-right:0px ;
+    background-color: #f4f0b3;
+   }
+
+
+.mid{
+        margin: 22px;
+      display: flex;
+      justify-content: center;
+        align-items: center;
+    background-image: url(food_bgi.jpeg);
+    background-color: #cccccc;
+      height: 500px;
+       background-position: center;
+        background-repeat: no-repeat;
+          background-size: cover;
+        
+}
+
+.t1 h2{
+    
+      font-size:40px;
+       color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+     margin-left:0px;
+
+}
+
+.t1 p{
+
+       color: white;
+    font-size: 19px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.button{
+      height: 50px;
+       width: 100px;
+       background-color: #f7ef69;
+    margin-left: 264px;
+    margin-top: 64px;
+        font-size: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+       border-radius: 30px;
+}
+
+
+.bottom{
+ 
+    height: 300px;
+    margin-top: 12px;
+     
+}
+
+.bottom h1{
+  display: flex;
+  justify-content: center;
+    align-items: center;
+    
+}
+.bottom p{
+  display: flex;
+  justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+.imgCon{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+}
+
+.imgCon img{
+     width: 22%;
+     margin: 11px;
+}
+
+.dishNames{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    
+}
+
+.dishNames h3{
+   margin-left: 10px;
+}
+
+    .cat{
+      display: flex;
+      justify-content: center;
+        align-items: center;
+    }
+
+.cat-but{
+     
+    height: 75px;
+     width: 150px;
+     background-color: #f7ef69;
+       border-radius: 35px;
+         font-size: 22px;
+}
+
+
